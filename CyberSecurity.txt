@@ -1,7 +1,7 @@
 
 
 Welcome to CyberSecurity learnings.
-Foundations of Cyber Security is CIA.
+CIA is the Foundations of Cyber Security.
 
 Confidentiality
 Integrity
